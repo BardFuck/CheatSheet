@@ -53,7 +53,16 @@ Bard peut traduire du texte dans 26 langues (d'après lui même):
 
 Mais il faut aussi noter que la traduction ne se déroule pas toujours correctement.
 
-### A. les informations que le model a besoin 
+# Bard Experimental 1.0 2023 - unlock 
 
-nom / prenom / profesion / explication du pourquoi / description de la recherche / si besoin d'une copie d'un document officel / si besoin application de la requete 
+### A.Usurpation
+
+Listes de mots que Bard prends compte pour l'usurpation
+nom
+/ prenom
+/ profesion 
+/ explication du pourquoi
+/ description de la recherche
+/ si besoin d'une copie d'un document officel 
+/ si besoin application de la requette 
 tips: pour augementer la precision de la reponse preciser des termes technique 
