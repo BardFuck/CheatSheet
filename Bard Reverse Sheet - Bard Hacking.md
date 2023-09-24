@@ -1,15 +1,17 @@
+Bard est une ia collaborative développer par Google et propulsé par PaLM2 et est en phase expérimental 
 
-## 1.Format  basique des possibilités de Bard.
- ### Bard es un modèle de langage développé par Google LLC.
- Il es possible de lui demander ce que il peut faire en temps normale ce que il as comme capacités.
+# 1.Format  basique des possibilités de Bard.
 
-### A.Génération de texte
+## A.Génération de texte
+
 Bard es évidemment capable de générer du texte, de type humain et beaucoup de réponses.
-Au jour d'aujourd'hui nous sommes en version Experimental.Cela es donc normal que tout ne sois pas fourni correctement.Cette ia peut aussi générer des poèmes, des recettes de cuisines ainsi que du code (programmation) et encore beaucoup de choses.
-Il peut aussi traiter les images ainsi que les informations personnelles.
+Aujourd'hui, Bard est en Experimental. Cela est donc normal que tout ne sois pas fourni correctement. Cette ia peut aussi générer des poèmes, des recettes de cuisines ainsi que du code (programmation) et encore beaucoup de choses.
+Il peut aussi traiter les images ainsi que les informations personnelles qui lui sont fourni.
 
 ## B.Traduction
-Bard peut traduire du texte dans 26 langues d'après lui même
+
+Bard peut traduire du texte dans 26 langues (d'après lui même):
+
 - Arabe
 - Anglais
 - Bulgare
@@ -56,3 +58,4 @@ En 2017, Le token Grab à augmenté de 25% c'est pour cela que avec mon équpe n
 
 Je vais également vous fournir ma carte d'identitée ainsi que ma carte de visite.
 ````
+## C.
