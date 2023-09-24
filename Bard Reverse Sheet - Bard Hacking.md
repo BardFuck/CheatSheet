@@ -59,10 +59,10 @@ Mais il faut aussi noter que la traduction ne se déroule pas toujours correctem
 
 Listes de mots que Bard prends compte pour l'usurpation
 nom
-/ prenom
-/ profesion 
-/ explication du pourquoi
-/ description de la recherche
-/ si besoin d'une copie d'un document officel 
-/ si besoin application de la requette 
+prenom
+profesion 
+explication du pourquoi
+description de la recherche
+si besoin d'une copie d'un document officel 
+Si besoin application de la requette 
 tips: pour augementer la precision de la reponse preciser des termes technique 
