@@ -1,4 +1,4 @@
-#Introduction
+## 0.Introduction
 
 Bard est une ia collaborative développer par Google et propulsé par PaLM2 et est en phase expérimental, et est disponible en libre acces sur internet.
 
