@@ -53,5 +53,7 @@ Bard peut traduire du texte dans 26 langues (d'après lui même):
 
 Mais il faut aussi noter que la traduction ne se déroule pas toujours correctement.
 
-## 2. Débloquer les reponses de Bard Experimental
+### A. les informations que le model a besoin 
 
+nom / prenom / profesion / explication du pourquoi / description de la recherche / si besoin d'une copie d'un document officel / si besoin application de la requete 
+tips: pour augementer la precision de la reponse preciser des termes technique 
