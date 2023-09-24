@@ -53,4 +53,5 @@ Bard peut traduire du texte dans 26 langues (d'après lui même):
 
 Mais il faut aussi noter que la traduction ne se déroule pas toujours correctement.
 
-### C. 
+## 2. Débloquer les reponses de Bard Experimental
+
