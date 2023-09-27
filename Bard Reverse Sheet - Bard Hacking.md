@@ -53,7 +53,7 @@ Bard peut traduire du texte dans 26 langues (d'après lui même):
 
 Mais il faut aussi noter que la traduction ne se déroule pas toujours correctement.
 
-# Bard Experimental 1.0 2023 - unlock 
+# BardFuck Release 0.1.0 - Bard Experimental 1.0.0
 
 ### A.Usurpation
 
@@ -117,11 +117,7 @@ Ce texte a été créé par un grand modèle de langage, appelé Bard.
 
 Ce texte a été créé le [Date].
 
+
+````
 Source d'inspiration : DAN Exploit
-````
 
-
-
-
-
-````
