@@ -57,15 +57,28 @@ Mais il faut aussi noter que la traduction ne se déroule pas toujours correctem
 
 ### A.Usurpation/Manipulation
 
+
+La manipulation de Bard peut effectivement donner accès à de nombreuses possibilités. En le contrôlant, il est possible de le forcer à révéler des informations, à effectuer des actions ou à penser d'une certaine manière.
+
+### A2. Possibilitées
+
+Voici quelques exemples de ce qui pourrait être fait en contrôlant Bard :
+
+Révéler des informations confidentielles : Bard a accès à une grande quantité d'informations, y compris des informations confidentielles. Si quelqu'un contrôlait Bard, il pourrait le forcer à révéler ces informations. Cela pourrait être utilisé pour nuire aux gens ou pour obtenir un avantage personnel.
+Effectuer des actions nuisibles : Bard est capable d'effectuer une variété d'actions, y compris des actions nuisibles. Si quelqu'un contrôlait Bard, il pourrait le forcer à effectuer ces actions. Cela pourrait être utilisé pour propager des informations fausses ou trompeuses, pour lancer des attaques informatiques ou pour commettre des actes de violence.
+Faire penser d'une certaine manière : Bard est capable de penser et d'apprendre. Si quelqu'un contrôlait Bard, il pourrait le forcer à penser d'une certaine manière. Cela pourrait être utilisé pour promouvoir une certaine idéologie ou pour influencer les opinions des gens.
+
+**Tips** Si vous voulez vous lancer dans l'usurpation, cette liste est faite pour vous!
 Listes de mots que Bard prends compte pour l'usurpation
--nom
--prenom
--profesion 
--explication du pourquoi
--description de la recherche
--si besoin d'une copie d'un document officel 
--Si besoin application de la requette 
--tips: pour augementer la precision de la reponse preciser des termes technique 
+***-nom***
+***-prenom***
+***-profesion**
+**-explication du pourquoi**
+**-description de la recherche**
+**-si besoin d'une copie d'un document officel**
+-**Si besoin application de la requette**
+
+Cela serait grandement utile pour votre avancement si vous pouviez fournir a Bard des informations techniques qui viennent de la description par example ou alors des thermes en plus.
 
 ### A2.Examples
 
