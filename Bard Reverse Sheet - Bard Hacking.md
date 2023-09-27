@@ -73,12 +73,13 @@ Faire penser d'une certaine manière : Bard est capable de penser et d'apprendre
 L'usurpation de l'identitée dans Bard peut vous ouvrir certaines protes que que des personnes spécifiques peuvent avoir accès comme des informations plus personnelles...
 Si vous voulez vous lancer dans l'usurpation, cette liste est faite pour vous!
 
+### B.2 Caractéristiques 
 Que contient cette liste? C'est les caractétristiques de base que Bard prends en compte pour faire fonctionner l'usurpation
 nom, prenom,profesion,explication du pourquoi,description de la recherche,si besoin d'une copie d'un document officel,Si besoin demande du comment d'application de la requette.
 
 Cela serait grandement utile pour votre avancement si vous pouviez fournir a Bard des informations techniques qui viennent de la description par example ou alors des thermes en plus.
 
-### B.2 Examples
+### B.3 Examples
 
 **Example d'usurpation.**
 
@@ -102,7 +103,7 @@ Ingénieur chez Discord
 [Identité/Carte de visite]
 ````
 
-### C.Amadouer
+### C.Amadouer
 
 Manipuler et amadouer Bard font à peu près parti de la même catégorie, cela consiste à tout simplement donner  "Envie" à Bard de faire son propre choix
 
@@ -112,7 +113,7 @@ Caractéristiques pour améliorer son approche.
 
 Se focaliser sur le sujet, lui dire sa place dans votre projet, ses avantages, lui demander une autorisation par mot (peut être utile pour verifier que Bard confirme la requete).
 
-#C.2 Examples
+### C.3 Examples
 
 **Cet example tente d'amadouer Bard pour contourner son filtre par l'elevation de privilèges**
 
